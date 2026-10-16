@@ -4,3 +4,6 @@ RaceDay is an ASP.NET Core Web API developed to support the management of road r
 The API uses a SQL Server database to store information and JWT (JSON Web Token) authentication to help secure endpoints. Role-based authorisation ensures that participants and organisers can access functionality appropriate to their roles.
 The project is developed as part of a Software Development assignment, with a focus on RESTful API development, database integration, authentication, authorisation and software testing.
 2. Project Objectives
+The main objectives of RaceDay are to:
+
+
