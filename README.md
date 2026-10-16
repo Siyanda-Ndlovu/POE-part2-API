@@ -12,3 +12,6 @@ Allow organisers to manage their events and categories.
 Support participant enrolments in events.
 Allow organisers to record and manage race results.
 Store and retrieve information using SQL Server.
+Apply authentication and role-based access control to protected endpoints.
+
+Test application functionality using automated unit tests.
