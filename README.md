@@ -6,4 +6,7 @@ The project is developed as part of a Software Development assignment, with a fo
 2. Project Objectives
 The main objectives of RaceDay are to:
 
+Provide secure user registration and login.
 
+Support participant and organiser roles.
+Allow organisers to manage their events and categories.
