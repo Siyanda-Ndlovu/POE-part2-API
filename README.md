@@ -9,3 +9,8 @@ The main objectives of RaceDay are to:
 Provide secure user registration and login.
 Support participant and organiser roles.
 Allow organisers to manage their events and categories.
+Support participant enrolments in events.
+
+Allow organisers to record and manage race results.
+
+Store and retrieve information using SQL Server.
