@@ -1,2 +1,2 @@
-# POE-part2-API
+# POE-part2
 POE API
