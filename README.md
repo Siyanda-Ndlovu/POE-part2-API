@@ -1,2 +1,2 @@
-# POE-
+# POE
 POE API
